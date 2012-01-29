@@ -1,0 +1,1 @@
+﻿alert('Current Language: MyStrings.Language');

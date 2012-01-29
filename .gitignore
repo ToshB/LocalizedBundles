@@ -1,0 +1,11 @@
+
+# ReSharper meta directory
+_ReSharper*
+
+# Build Folders
+bin
+obj
+
+# user settings
+*.user
+*.suo
