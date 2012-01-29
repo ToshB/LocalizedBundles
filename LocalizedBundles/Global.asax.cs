@@ -22,8 +22,6 @@ namespace LocalizedBundles
 
             // Use the AddLocalizedBundles extension method for adding bundles, with an optional default culture virtual path
             BundleTable.Bundles.AddLocalizedBundles(bundle, _bundleLocalizer, _cultureProvider, "~/scripts.js");
-        }
-
-        
+        }   
     }
 }
