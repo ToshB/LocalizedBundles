@@ -26,3 +26,7 @@ Sample Global.asax
         }   
     }
 ```
+
+Whenever I need a localized string in my JavaScript files, I use the convention 'MyStrings.StringName'. This will then be replaced by whatever StringName is defined as in my resource file.
+
+Disclaimer: There are probably some edge cases where the replacing will fail and break your code, but so far this works for me.
