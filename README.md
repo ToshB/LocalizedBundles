@@ -1,4 +1,5 @@
 Sample Global.asax
+
 ```c#
     public class Global : System.Web.HttpApplication
     {
